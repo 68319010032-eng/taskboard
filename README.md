@@ -2,7 +2,7 @@
 
 # TaskBoard — ระบบจัดการงาน
 
-![CI](https://github.com/<username>/taskboard/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/68319010032-eng/taskboard/actions/workflows/ci.yml/badge.svg)
 
 ระบบ CRUD สำหรับจัดการงาน สร้างด้วย Express.js + PostgreSQL + Vue 3
 
