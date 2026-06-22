@@ -15,7 +15,7 @@
 ## วิธีรัน (Local)
 ```bash
 # Clone
-git clone https://github.com/<username>/taskboard.git
+git clone https://github.com/68319010032-eng/taskboard.git
 cd taskboard
 
 # รัน ด้วย Docker Compose
